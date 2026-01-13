@@ -18,9 +18,9 @@
 ### Étape 3 : Configurer (Render le fait automatiquement)
 
 Render va :
-- ✅ Détecter Laravel automatiquement
+- ✅ Détecter Laravel automatiquement grâce au fichier `render.yaml`
 - ✅ Créer une base de données PostgreSQL (gratuite)
-- ✅ Configurer les variables d'environnement
+- ✅ Configurer automatiquement toutes les variables d'environnement
 
 ### Étape 4 : Ajouter APP_KEY
 
